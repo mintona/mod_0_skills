@@ -7,12 +7,13 @@ total_capacity: (integer)
 current_capacity: (integer)
 intact: (boolean)
 position: (integer)
-number_of_ware: (integer)
+number_of_ware_in_restaurant: (integer)
 location_of_ware: ('string')
+clean_ware: (boolean)
 
 
 Methods:
 fill_ware_specific_amount(amount): current_capacity = total_capacity + amount
-drop_ware: changes position to 0 and if material_glass = true, intact changes to false and number_of_ware is reduced by 1
+drop_ware: changes position to 0 and if material_glass = true, intact changes to false, current_capacity changes to 0 and number_of_ware is reduced by 1
 refill_ware: if current_capacity is <1, current_capacity = total_capacity
 wash_ware: if clean_glass = false, relocate glass from 'table' to 'dishwasher'
