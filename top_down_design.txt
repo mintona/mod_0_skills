@@ -1,0 +1,43 @@
+How to Become a Turing Student
+
+1 Get accepted to Turing
+  1.1 Complete online application
+    1.1.1 Create a git hub account or link with Facebook
+      1.1.1.1 Click the "connect with Facebook" button
+      1.1.1.2 Click the "allow Facebook to use your information" button
+    1.1.2 Fill out personal information form
+      1.1.2.1 Enter your name
+      1.1.2.2 Enter your address
+    1.1.3 Upload current resume
+      1.1.3.1 Open finder
+      1.1.3.2 Click on resume file
+      1.1.3.3 Drag the resume file into the upload window
+      1.1.3.4 Click upload
+    1.1.4 Submit the form
+      1.1.4.1 Click the submit button to send info and resume to Turing
+    1.1.5 Take logic test
+      1.1.5.1 Click the link to the logic test
+      1.1.5.2 Answer question 1 of the logic test
+      1.1.5.3 Answer question 2 of the logic test
+      1.1.5.4 Continuing answering questions until all 8 questions are answered
+  Is online application accepted?
+  YES
+  1.2 Complete in-person interview
+    1.2.1 Travel to Turing
+      1.2.1.1 Drive from Lafayette to Denver
+      1.2.1.2 Park in the bank building parking lot
+    1.2.2 Take the in-person logic test
+    1.2.3 Complete the Q&A portion of the interview
+  1.3 Receive acceptance email
+  NO
+  1.2 Receive a rejection email
+  1.3 Try to apply again at a later date
+2 Enroll in Turing
+  2.1 Choose BE or FE program
+  2.2 Pay initial payment
+3 Pass MOD 0
+  3.1 Enroll in MOD 0 session
+  3.2 Pass MOD 0 technical assessment
+  3.3 Pass MOD 0 capstone
+4 Start MOD 1
+  4.1 Attend the first day of school on 9/30/2019
