@@ -1,0 +1,15 @@
+Class: Stovetop
+
+Attributes:
+number_of_burners: (integer)
+number_of_burners_on: (integer)
+burner_on: (boolean)
+pilot_light_status: (boolean)
+max_gas_output: (integer)
+current_gas_output: (integer)
+
+Methods:
+burners_open: number_of_burners - number_of_burners_on
+ignite_burner: if pilot_light_status = true, burner_on = true
+turn_heat_maximum: changes current_gas_output to max_gas_output
+turn_heat_medium: changes current_gas_output to 5
