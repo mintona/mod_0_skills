@@ -1,0 +1,20 @@
+Class: Glassware
+Object: Wine Glass
+
+Attributes:
+material_glass: true
+stem: true
+total_capacity: 9
+current_capacity: 1
+intact: true
+position: 3
+number_of_ware_in_restaurant: 32
+clean_ware: false
+location_of_ware: 'table'
+
+
+Methods:
+fill_ware_specific_amount(amount): 5 = 1 + 4
+drop_ware: position: 0, intact: false, current_capacity: 0 number_of_ware_in_restaurant: 31
+refill_ware: current_capacity: 9
+wash_ware: location_of_ware 'dishwasher'
