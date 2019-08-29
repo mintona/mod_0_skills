@@ -1,0 +1,21 @@
+Class: Stovetop
+Object: Dacor Range
+
+Attributes:
+number_of_burners: 6
+number_of_burners_on: 4
+burner1_on: true
+burner1_on: true
+burner3_on: true
+burner4_on: true
+burner5_on: false
+burner6_on: false
+pilot_light_status: true
+max_gas_output: 10
+current_gas_output: 2
+
+Methods:
+burners_open: 6-4 = 2
+ignite_burner5: burner5_on: true
+turn_heat_maximum: current_gas_output 10
+turn_heat_medium: current_gas_output 5
